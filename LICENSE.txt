@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2022 by Karol Podlesny (https://codepen.io/karolpodlesny/pen/kdJrVE)
+Copyright (c) 2022 by Steve Meredith (https://codepen.io/steveeeie/pen/NVWMEM)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
